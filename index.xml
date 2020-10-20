@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Marinos Data Science Portfolio on George Marinos</title>
+    <link>https://giorgosmarinos.github.io/data_science_portfolio/</link>
+    <description>Recent content in George Marinos Data Science Portfolio on George Marinos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2019 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://giorgosmarinos.github.io/data_science_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I: The Infinitech Project</title>
+      <link>https://giorgosmarinos.github.io/data_science_portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 01 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://giorgosmarinos.github.io/data_science_portfolio/post/chapter-1/</guid>
+      <description>PROJECT OVERVIEW: INFINITECH will provide:
+Novel BigData/IoT technologies for seamless management and querying of all types of data interoperable data analytics, blockchain-based data sharing, real-time analytics, as well as libraries of advanced AI algorithms. Regulatory tools incorporating various data governance capabilities and facilitating compliance to regulations (e.g., PSD2, 4AMLD, MIFiD II). Nine novel and configurable testbeds &amp;amp; sandboxes, each one offering Open APIs and other resources for validating autonomous and personalized solutions, including a unique collection of data assets for finance/insurance.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://giorgosmarinos.github.io/data_science_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://giorgosmarinos.github.io/data_science_portfolio/contact/</guid>
+      <description>   These are my social media accounts      Platform URL   facebook: https://www.facebook.com/giwrgos.marinos.71   instagram: https://www.instagram.com/geo_marinos/   linkedin: https://www.linkedin.com/in/giwrgos-marinos-47328a130/    </description>
+    </item>
+    
+  </channel>
+</rss>
