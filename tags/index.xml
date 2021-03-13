@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on George Marinos</title>
+    <title>Tags on Home</title>
     <link>https://giorgosmarinos.github.io/data_science_portfolio/tags/</link>
-    <description>Recent content in Tags on George Marinos</description>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://giorgosmarinos.github.io/data_science_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>scene</title>
       <link>https://giorgosmarinos.github.io/data_science_portfolio/tags/scene/</link>
-      <pubDate>Fri, 01 Nov 2019 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 25 Jan 2021 10:58:08 -0400</pubDate>
       
       <guid>https://giorgosmarinos.github.io/data_science_portfolio/tags/scene/</guid>
       <description></description>
