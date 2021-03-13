@@ -6,10 +6,19 @@
     <description>Recent content in George Marinos - Associate Researcher - Data Scientist on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://giorgosmarinos.github.io/data_science_portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conference Paper: A Survey of Survival Analysis Techniques</title>
+      <link>https://giorgosmarinos.github.io/data_science_portfolio/post/chapter-3/</link>
+      <pubDate>Thu, 25 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://giorgosmarinos.github.io/data_science_portfolio/post/chapter-3/</guid>
+      <description>Survival analysis is a branch of statistics for analyzing the expected duration of the time until the event of interest happens. It is not only applicable to biomedical problems but it can be widely used in almost every domain since there is a relevant data structure available. Recent studies have shown that it is a powerful approach for risk stratification. Since it is a well established statistical technique, there have been several studies that combine survival analysis with machine learning algorithms in order to obtain better performances.</description>
+    </item>
     
     <item>
       <title>Project II: The iHELP Project</title>
